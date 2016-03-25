@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int a = 0;
+    int a = 10;
     int b = 0;
 
     printf("a + b = %d\n", a + b);
